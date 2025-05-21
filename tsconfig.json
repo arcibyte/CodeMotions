@@ -7,8 +7,8 @@
     "sourceMap": true,
     "rootDir": "src",
     "strict": true,
-    "esModuleInterop": true, 
-    "types": ["vscode"]             
+    "esModuleInterop": true,
+    "types": ["vscode", "node", "mocha"]
   },
   "include": ["src"]
 }
